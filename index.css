@@ -210,11 +210,6 @@ body {
     }
 }
 
-@media (max-width: 400px) {
-    .container {
-        background-color: #bb0000;
-    }
-}
 
 @keyframes slide-in {
     from {
